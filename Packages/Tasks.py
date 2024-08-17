@@ -4,5 +4,5 @@ class Tasks:
         self.deadline = deadline
 
 
-def Greet():
+def greet():
     print("Moo")
